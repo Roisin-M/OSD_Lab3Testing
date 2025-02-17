@@ -1,6 +1,6 @@
 import { getCurrencies } from "./getCurrencies";
 
-describe('getCurrencies', ()=>{
+describe('getCurrencies, Student Number: S00223865, Name: Roisin Muldoon', ()=>{
 
       it("should match with all of the correct array values", () => {
         const result=getCurrencies();

@@ -1,7 +1,7 @@
 import { compute } from "./compute";
 
 //create the spec - describes the suite of tests
-describe('Compute', ()=> {
+describe('Compute, Student Number: S00223865, Name: Roisin Muldoon', ()=> {
 	//name of the spec
     it('should return 0 if the input is negative',() =>{ 
         //if parameter is 2 then test will fail as it doesn't equal 0
